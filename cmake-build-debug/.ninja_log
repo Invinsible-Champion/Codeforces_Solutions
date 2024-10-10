@@ -1,0 +1,13 @@
+# ninja log v6
+5	423	7462015360762423	build.ninja	33e497537e3715dd
+2	449	7432631011489689	CMakeFiles/Problems_Codeforces.dir/main.cpp.obj	95eb57a363c0049e
+45	2569	7437740536629070	CMakeFiles/Problems_Codeforces.dir/test.cpp.obj	9d98b470443e2b40
+2059	2172	7442653038296958	Problems_Codeforces.exe	7412cab0f987bacf
+46	2359	7436858102284886	CMakeFiles/Problems_Codeforces.dir/proj.cpp.obj	70c145b01de61e25
+38	2058	7442653018089625	CMakeFiles/Problems_Codeforces.dir/learn.cpp.obj	bb8844905ea79410
+26	1880	7462020997847810	CMakeFiles/Problems_Codeforces.dir/code.cpp.obj	a3f71d2cce75cf7a
+1884	2374	7462021016430172	Problems_Codeforces.exe	2db272e1d2296c93
+29	1787	7462021299919005	CMakeFiles/Problems_Codeforces.dir/code.cpp.obj	a3f71d2cce75cf7a
+1788	1905	7462021317508854	Problems_Codeforces.exe	2db272e1d2296c93
+41	1748	7462021987751045	CMakeFiles/Problems_Codeforces.dir/code.cpp.obj	a3f71d2cce75cf7a
+1749	1872	7462022004830228	Problems_Codeforces.exe	2db272e1d2296c93
